@@ -2,3 +2,6 @@
 
 ## 내비게이션
 - navigation.md 추가
+
+## 구매
+- buy.md 추가
