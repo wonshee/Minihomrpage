@@ -3,3 +3,6 @@
 
 MBTI
 ENTP
+
+혈액형
+A
